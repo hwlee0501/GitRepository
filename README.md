@@ -16,3 +16,11 @@ Include some badges such as build status, test coverage, etc.
 - Feature1
 - Feature2
 - Feature3
+
+---
+### Installation
+
+    git clone https://github.come/username/projectname.git
+    cd projectname
+    pip install requirements.txt
+  
