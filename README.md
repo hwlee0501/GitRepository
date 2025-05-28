@@ -7,4 +7,14 @@
 
  ### Badges
 
- 
+Include some badges such as build status, test coverage, etc.
+
+<https://badge_link>
+
+### Features
+
+-Feature1
+
+-Feature2
+
+-Feature3
